@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header img{
+    display: block;
+    width: 50%;
+    margin: 0  auto;
+    padding: 1.5% 0;
+}
+
+header div{
+    background-color: #FFEBAD;
+}
+
+@media screen and (max-width: 600px) {
+    .wide-image{
+        display: none;
+    }
+    .logo1{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .small-image{
+        display: none;
+    }
+    .logo2{
+        display: none;
+    }
+}
+
+ul{
+    margin: 0 auto;
+}
+
+.discount{
+    width: 100%;
+}
+
+.cards{
+    margin: 5% 0 2% 0;
+}
+
+.card{
+    margin-bottom: 4%;
+}
+
+footer{
+    background-color: #282A3A;
+    padding: 3% 0;
+    color: white;
+}
+
+.footer-logo{
+    width: 30%;
+}
+
+.copyright{
+    display: inline;
+    font-size: 1.5rem;
+}
