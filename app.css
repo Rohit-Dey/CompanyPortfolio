@@ -38,6 +38,15 @@ ul{
 
 .discount{
     width: 100%;
+    border-width: 1em;
+    border-color: aliceblue;
+    border-style:ridge;
+}
+
+.jew{
+    margin-top: 2rem;
+    margin-left: 3.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .cards{
