@@ -50,6 +50,7 @@ ul{
 
 .card:hover{
    box-shadow: 0.5rem 0.5rem gray;
+   cursor:pointer;
 }
 
 footer{
