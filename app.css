@@ -48,6 +48,10 @@ ul{
     margin-bottom: 4%;
 }
 
+.card:hover{
+   box-shadow: 0.5rem 0.5rem gray;
+}
+
 footer{
     background-color: #282A3A;
     padding: 3% 0;
